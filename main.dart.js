@@ -66082,7 +66082,7 @@ A.FI.prototype={
 J(a){var s=null,r=A.dv(20),q=A.a([B.ar,B.cj],t.O)
 return A.nO(!1,s,!0,A.di(B.a0,A.eK(A.a([A.d9("\u062f\u0627\u0646\u0644\u0648\u062f \u0631\u0632\u0648\u0645\u0647",s,s,A.av(a).p2.ax.L3(B.i,B.a4,1.2)),B.Pg,B.FU],t.p),B.D,B.A,B.M),B.v,s,s,new A.cD(s,s,s,r,B.ht,new A.fS(B.xc,B.xb,B.aQ,q,s,s),B.a2),s,s,s,B.F9,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.XQ(),s,s,s,s)}}
 A.XQ.prototype={
-$0(){A.jJ(A.e5("https://drive.google.com/file/d/1HSIe7rdk8VtrAL4DQuybfMHQgDrQ6xNs/view?usp=sharing",0,null))},
+$0(){A.jJ(A.e5("https://jobinja.ir/user/AB-8245211",0,null))},
 $S:0}
 A.oe.prototype={
 J(a){return new A.hY(new A.a4k(this),null)}}
